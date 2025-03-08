@@ -1,5 +1,10 @@
 # Sistemas Termicos y combinaciones
 ## Sistenas termicos
+
+
+![](9.jpg)
+
+
 En los sistemas termicos simples se pueden llegar a utilizar las siguientes formulas:
 
 $$R=\frac{\theta }{h_{o}}$$
