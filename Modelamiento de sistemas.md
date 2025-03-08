@@ -55,6 +55,7 @@ $$i(t)=C\frac{\mathrm{d} v(t)}{\mathrm{d} t}\to Carga de un condensador$$
 $$v(t)= L \frac{\mathrm{d} i(t)}{\mathrm{d} t}\to Carga de un inductor$$
 
 ## Circuitos con amplificadores operacionales
+![](rr3.jpg)
 ### no inversor 
 Algunas de las caracteristicas de este amplificador son:
 
