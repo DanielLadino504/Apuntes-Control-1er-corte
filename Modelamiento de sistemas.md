@@ -41,6 +41,11 @@ $$T= J \cdot \frac{\mathrm{d^{2}} \varphi }{\mathrm{d} t^{2}} \to J = Momento de
 
 # Sistemas electricos
 ## Circuitos RLC
+
+
+![](Figura-1-Circuito-RLC-serie-paralelo.png)
+
+
 Los fenomenos fisicos que aplican en este tipo de sistemas son:
 
 $$R=\frac{v(t)}{i(t)}\to Ley de ohm$$
