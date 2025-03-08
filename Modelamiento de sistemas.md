@@ -15,7 +15,7 @@ $$a_{1}\frac{\mathrm{d^{2}}F }{\mathrm{d} t^{2}}+a_{2}\frac{\mathrm{d} F}{\mathr
 ## Sistemas mecanicos
 Los sistemas mecanicos usualmente se representa de la siguiente manera:
 
-(inserte imagen)
+![](Ejemplo-de-sistema-mecanico-modelo-de-1-4-de-coche.png)
 
 Estos sitemas estan afectados por los siguientes fenomenos fisicos:
 
