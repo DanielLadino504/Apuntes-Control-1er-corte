@@ -14,6 +14,7 @@ $$Cd\theta =(h_{i}-h_{o})dt$$
 $$RC\frac{\mathrm{d} \theta }{\mathrm{d} t}+\theta =R h_{i}$$
 
 ## Potenciometro
+![](images(1).jpg)
 ### tipos de potenciometros
 
 -de rotacion:
