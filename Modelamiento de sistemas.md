@@ -29,6 +29,7 @@ $$F=m \cdot a \to Newton$$
 Se trata de sistemas los cuales estan afectados por un fenomeno mecanico con la naturaleza de este cambiando convirtiendose en un movimiento angular.
 Normalmente se representan de la siguiente forma:
 
+![](Figura-33-Sistema-rotacional-masa-resorte-amortiguador.png)
 
 Algunas de las ecuaciones relacionadas a este fenomeno son:
 
