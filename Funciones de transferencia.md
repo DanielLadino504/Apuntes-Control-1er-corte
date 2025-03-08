@@ -38,3 +38,8 @@ $$Re(s)>0$$
 Si los polos son imaginarios el sistema es marginalmente estable:
 
 $$Re(s)=0$$
+
+Finalmente teniendo los ceros y polos del sistema se dispone a representar los valores de s en una grafica de la siguiente manera:
+
+
+![](3E2011TII_T2_LTID_diagrama2.png)
