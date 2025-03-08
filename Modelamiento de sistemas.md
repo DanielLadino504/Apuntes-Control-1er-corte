@@ -66,6 +66,7 @@ Algunas de las caracteristicas de este amplificador son:
 -La impedancia de la entrada es muy grande y en la salida es muy pequeña
 
 ## Sistemas hidraulicos
+![](Sistemas-hidrulicos-de-aviación-61-638.jpg)
 Se tratan de sistemas industriales en se quiere controlar el flujo o nivel en un tanque. 
 Algunas de las ecuaciones referentes a estos sistemas son:
 
