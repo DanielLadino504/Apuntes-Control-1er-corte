@@ -106,3 +106,27 @@ h1: Nivel de liquido en el tanque
   $$V=L\frac{\mathrm{d} i_{L}}{\mathrm{d} t}+V_{C}$$
 
   $$i_{L}=i_{R}+i_{c}\to i_{L}=\frac{V_{c}}{R}+C\frac{\mathrm{d} V_{c}}{\mathrm{d} t}$$
+
+
+  2.
+  
+![](image.png)
+
+$$i_{L}=i_{R}+i_{C}$$
+
+$$V_{L}=L\frac{\mathrm{d} i_{L}}{\mathrm{d} t}$$
+
+$$i_{C}=C\frac{\mathrm{d} V_{C}}{\mathrm{d} t}$$
+
+$$V_{R}=Ri_{R}$$
+
+kirchoff en la primera maya:
+
+
+$$V_{c}=R_{1}i_{1}+L_{1}\frac{\mathrm{d} i_{1}}{\mathrm{d} t}+V_{c}$$
+
+kirchoff en la segunda maya:
+
+$$i_{1}=i_{2}+i_{c}$$
+
+$$V_{c}=L_{2}\frac{\mathrm{d} i_{2}}{\mathrm{d} t}+R_{2}i_{2}$$
