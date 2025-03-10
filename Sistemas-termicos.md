@@ -42,5 +42,26 @@ $$TO=PV\cdot K$$
 
 
 $$a\frac{\mathrm{d} (TO)}{\mathrm{d} t}+b\cdot TO=PV$$
+# ejercicios 
 
 
+1.
+
+
+![](cap330x.png)
+
+$$Q_{i}=FC_{p}T_{f}$$
+
+$$Q_{o}=FC_{p}T_{t}$$
+
+$$Q_{p}=UA(T_{t}-T_{e})$$
+
+$$Q_{c}=Q$$
+
+$$Q_{c}+Q_{i}-Q_{o}-Q_{p}=\frac{\mathrm{d} }{\mathrm{d} t}(mC_{p}T_{t})$$
+
+$$FC_{p}T_{f}-fC_{p}T_{t}+Q-UA(T_{c}-T_{e})=\frac{\mathrm{d} }{\mathrm{d} t}(mC_{p}T_{t})$$
+
+$$FT_{f}-fT_{t}+\frac{Q}{C_{p}}-\frac{UA}{C_{p}}(T_{c}-T_{e})=\frac{\mathrm{d} T_{t}}{\mathrm{d} t}M$$
+
+$$\frac{F}{M}(T_{f}-T_{t})+\frac{Q}{MC_{p}}-\frac{UA}{MC_{p}}(T_{c}-T_{e})=\frac{\mathrm{d} T_{t}}{\mathrm{d} t}$$
