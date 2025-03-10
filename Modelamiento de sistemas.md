@@ -87,3 +87,22 @@ R1: resistencia al flujo
 A1: Area trasnversal del tanque
 
 h1: Nivel de liquido en el tanque
+
+# Ejercicios
+1.
+
+  ![](captura-de-pantalla-5-edited.png)
+
+  $$i_{L}=i_{R}+i_{C}$$
+
+  $$V_{L}=L\frac{\mathrm{d} i_{L}}{\mathrm{d} t}$$
+
+  $$i_{C}=C\frac{\mathrm{d} V_{C}}{\mathrm{d} t}$$
+
+  $$V_{R}=Ri_{R}$$
+
+  $$V=V_{L}+V_{C}$$
+
+  $$V=L\frac{\mathrm{d} i_{L}}{\mathrm{d} t}+V_{C}$$
+
+  $$i_{L}=i_{R}+i_{c}\to i_{L}=\frac{V_{c}}{R}+C\frac{\mathrm{d} V_{c}}{\mathrm{d} t}$$
