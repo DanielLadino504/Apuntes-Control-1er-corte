@@ -1,4 +1,7 @@
 # Funcion de Transferencia
+
+Daniel Felipe Ladino, Angel David Melo
+
 LA funcion de transferencia H(s) es una representacion matematica que relaciona la entrada y la salida de un sistema en el dominio de Laplace. Esto se representa como:
 
 $$ H(s)=\frac{Y(s)}{X(s)}$$
