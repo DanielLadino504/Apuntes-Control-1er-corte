@@ -16,7 +16,7 @@ $$RC\frac{\mathrm{d} \theta }{\mathrm{d} t}+\theta =R h_{i}$$
 
 ## Potenciometro
 
-Los potenciómetros son dispositivos que permiten variar la resistencia eléctrica de manera manual o automática. Se utilizan en sistemas de control para ajustar señales de voltaje o corriente. Existen dos tipos principales de potenciómetros: de rotación y de translación.
+Los potenciómetros son dispositivos que permiten variar la resistencia de manera manual o automática. Se utilizan en sistemas de control para ajustar señales de voltaje o corriente. Existen dos tipos principales de potenciómetros: de rotación y de translación.
 
 ![](images(1).jpg)
 
@@ -32,7 +32,7 @@ $$V_{o}=\frac{x}{x _{max}}V_{cc} $$
 
 ## Tacometros
 
-Los tacómetros son dispositivos que convierten la velocidad angular en un voltaje proporcional. Son ampliamente utilizados en sistemas de control para medir la velocidad de rotación de motores y otros dispositivos mecánicos.
+Los tacómetros son dispositivos que convierten la velocidad a un voltaje. Son normalmente utilizados en sistemas de control para medir la velocidad de rotación de motores y otros dispositivos mecánicos.
 
 $$v(t)=k\frac{\mathrm{d} \theta (t)}{\mathrm{d} t}$$
 
