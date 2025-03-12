@@ -52,7 +52,7 @@ $$a\frac{\mathrm{d} (TO)}{\mathrm{d} t}+b\cdot TO=PV$$
 # ejercicios 
 
 
-1.
+1.Realizar el modelamiento del siguiente sistema termico:
 
 
 ![](cap330x.png)
@@ -72,3 +72,15 @@ $$FC_{p}T_{f}-fC_{p}T_{t}+Q-UA(T_{c}-T_{e})=\frac{\mathrm{d} }{\mathrm{d} t}(mC_
 $$FT_{f}-fT_{t}+\frac{Q}{C_{p}}-\frac{UA}{C_{p}}(T_{c}-T_{e})=\frac{\mathrm{d} T_{t}}{\mathrm{d} t}M$$
 
 $$\frac{F}{M}(T_{f}-T_{t})+\frac{Q}{MC_{p}}-\frac{UA}{MC_{p}}(T_{c}-T_{e})=\frac{\mathrm{d} T_{t}}{\mathrm{d} t}$$
+
+2. Modelar el siguiente sistema termico:
+
+![](Esquema-del-sistema-termico.png)
+
+$$pc_{p}V\frac{\mathrm{d} T}{\mathrm{d} t}=Fpc_{p}(T_{i}-T_{o})+Q$$
+
+$$\frac{\mathrm{d} T}{\mathrm{d} t}=\frac{F}{V}(T_{i}-T_{o})+\frac{Q}{pc_{p}V}$$
+
+Aplicamos Laplace:
+
+$$sT(s)=\frac{F}{V}T(s)-\frac{F}{V}T_{i}(s)+\frac{Q(s)}{pc_{p}V}$$
