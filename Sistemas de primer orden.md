@@ -1,4 +1,12 @@
 # Sistemas de primer orden
+## Introduccion
+Los sistemas de primer orden se modelan por medio de ecuaciones diferenciales de primer orden y son esenciales en el análisis de sistemas de control. Nos permiten estudiar la respuesta ante diferentes tipos de entradas, como escalón, rampa e impulso. Este informe aborda temas como la transformada de Laplace, la función de transferencia y las respuestas temporales de estos sistemas.
+## Transformada de Laplace
+La transformada de Laplace es una herramienta matemática que convierte ecuaciones diferenciales del dominio del tiempo a ecuaciones algebraicas en el dominio de la frecuencia compleja esto nos facilita el análisis de sistemas dinámicos. La transformada de Laplace de una función f(t) se define como:
+\[
+\mathcal{L}\{f(t)\} = F(s)
+\]
+
 ## Entradas de prueba a un sistema
 ### Entrada escalon
 
