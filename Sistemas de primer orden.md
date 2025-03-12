@@ -17,7 +17,9 @@ Aplicando fracciones parciales y la transformada inversa de Laplace, se obtiene 
 
 $$y(t) = AK(1 - e^{-\frac{t}{\tau}})$$
 
-Esta ecuación muestra que la respuesta al escalón tiene un comportamiento exponencial, donde el sistema alcanza el estado estacionario después de un tiempo determinado por la constante de tiempo \( \tau \).
+Esta ecuación muestra que la respuesta al escalón tiene un comportamiento exponencial, donde el sistema alcanza el estado estacionario después de un tiempo determinado por la constante de tiempo $$\( \tau \)$$.
+
+![](500px-Escalon_mod.png)
 
 ### 2.2. Respuesta a la Rampa
 
@@ -33,9 +35,11 @@ $$y(t) = AK \left( t - \tau + \tau e^{-\frac{t}{\tau}} \right)$$
 
 La respuesta a la rampa también tiene un comportamiento exponencial, pero en este caso, la salida no está acotada por un valor constante, sino que crece linealmente con el tiempo.
 
+![](450px-Rampa_mod.png)
+
 ### 2.3. Respuesta al Impulso
 
-La respuesta de un sistema de primer orden ante una entrada impulso \( \delta(t) \) se obtiene aplicando la transformada de Laplace. La salida en el dominio de Laplace es:
+La respuesta de un sistema de primer orden ante una entrada impulso $$\( \delta(t) \)$$ se obtiene aplicando la transformada de Laplace. La salida en el dominio de Laplace es:
 
 $$Y(s) = \frac{AK}{\tau s + 1}$$
 
@@ -44,31 +48,12 @@ Aplicando la transformada inversa de Laplace, se obtiene la respuesta en el tiem
 $$y(t) = \frac{AK}{\tau} e^{-\frac{t}{\tau}}$$
 
 Esta respuesta muestra que el sistema tiene un decaimiento exponencial después de un impulso, lo que indica que el sistema disipa la energía rápidamente.
-### Entrada escalon
-
-
-![](500px-Escalon_mod.png)
-
-
-Representa un cambio de nivel de forma repentina. representada por la siguiente ecuacion:
-
-$$L(u[t])=\frac{A}{s}$$
-
-### Entrada rampa
-
-
-![](450px-Rampa_mod.png)
-
-
-Esta señal varia en el tiempo de forma lineal, representada por la siguiente ecuacion:
-
-$$L(x[t])=\frac{A}{s^{2}}$$
 
 ### Entrada parabola
+
 ![](capitulo60x.png)
 
 Esta entrada  considera una variacion no lineal en el tiempo lo cual permitira evaluar las condiciones de inicio y final, normalmente se representa como la siguiente expresion:
 
 $$L(r[t])=\frac{A}{s^{3}}$$
 
-## Ecuaciones de primer orden
