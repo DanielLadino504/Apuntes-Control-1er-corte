@@ -25,7 +25,7 @@ $$V_{o}=\frac{\theta }{\theta _{max}}V_{cc}$$
 
 -de translacion:
 
-$$ V_{o}=\frac{x}{x _{max}}V_{cc} $$
+$$V_{o}=\frac{x}{x _{max}}V_{cc} $$
 
 ## Tacometros
 
