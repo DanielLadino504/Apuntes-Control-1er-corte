@@ -149,4 +149,16 @@ $$M_{1}sV_{1}(s)=F(s)-b(V_{2}(s)-V_{1}(s))$$
 
 $$M_{2}sV_{2}(s)=b(V_{2}(s)-V_{1}(s))-\frac{k}{s}V_{2}(s)$$
 
-4.
+4. Realizar el modelamiento del siguiente sistema:
+
+![](ejercicios2.png)
+
+$$M\frac{\mathrm{d^{2}} x}{\mathrm{d} t^{2}}=F-f\frac{\mathrm{d} x}{\mathrm{d} t}-kx$$
+
+$$M\frac{\mathrm{d^{2}} x}{\mathrm{d} t^{2}}+f\frac{\mathrm{d} x}{\mathrm{d} t}+kx=F$$
+
+Aplicamos Laplace:
+
+$$Ms^{2}X(s)+fsX(s)+kX(s)=F(s)$$
+
+$$X(S)(Ms^{2}+fs+k)=F(s)$$
