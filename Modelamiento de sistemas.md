@@ -1,4 +1,5 @@
 # Modelamiento de sistemas
+Daniel Felipe Ladino, Angel David Melo
 ## Sistema
 Conjunto de componentes que actuan en conjunto con el fin de alcanzar un objetivo especifico. Esto se puede representar por medio de pricipios que relacionan entradas y salidas.
 ## Principio general del modelamiento
