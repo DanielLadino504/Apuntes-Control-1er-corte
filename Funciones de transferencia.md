@@ -43,3 +43,36 @@ Finalmente teniendo los ceros y polos del sistema se dispone a representar los v
 
 
 ![](3E2011TII_T2_LTID_diagrama2.png)
+
+# Ejercicios
+
+1. Hallar los polos y los ceros de la siguiente funcion de transferencia:
+
+$$FT=\frac{s(s-2)}{(s+5)(s^{2}+6s+10)}$$
+
+## solucion
+Encontramos primero los ceros:
+
+$$s(s-2)=0$$
+
+$$s=0, S=2$$
+
+Despues obtenemos los polos:
+
+$$(s+5)(s^{2}+6s+10)=0$$
+
+$$s_{1}=-5$$
+
+$$s_{2,3}=\frac{-6\pm \sqrt{6^{2}-4(10)}}{2}$$
+
+$$s_{2,3}=\frac{-6\pm \sqrt{36-40}}{2}$$
+
+$$s_{2,3}=\frac{-6\pm \sqrt{-4}}{2}$$
+
+$$s_{2,3}=\frac{-6\pm 2i}{2}$$
+
+$$s_{2,3}=-3\pm i$$
+
+$$s_{2}=-3+ i$$
+
+$$s_{3}=-3- i$$
