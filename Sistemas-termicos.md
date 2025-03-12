@@ -15,6 +15,7 @@ $$Cd\theta =(h_{i}-h_{o})dt$$
 $$RC\frac{\mathrm{d} \theta }{\mathrm{d} t}+\theta =R h_{i}$$
 
 ## Potenciometro
+Los potenciómetros son dispositivos que permiten variar la resistencia eléctrica de manera manual o automática. Se utilizan en sistemas de control para ajustar señales de voltaje o corriente. Existen dos tipos principales de potenciómetros: de rotación y de translación.
 ![](images(1).jpg)
 ### tipos de potenciometros
 
