@@ -46,7 +46,7 @@ Finalmente teniendo los ceros y polos del sistema se dispone a representar los v
 
 # Ejercicios
 
-1. Hallar los polos y los ceros de la siguiente funcion de transferencia:
+## 1. Hallar los polos y los ceros de la siguiente funcion de transferencia:
 
 $$FT=\frac{s(s-2)}{(s+5)(s^{2}+6s+10)}$$
 
@@ -76,3 +76,15 @@ $$s_{2,3}=-3\pm i$$
 $$s_{2}=-3+ i$$
 
 $$s_{3}=-3- i$$
+
+## 2. Hallar los polos y los ceros de la siguiente funcion de transferencia:
+
+$$G(s)=\frac{s+2}{s(s^{2}+2s+2)}$$
+
+## solucion
+Primero se encuentran los ceros:
+
+$$s+2=0$$
+
+$$s=-2$$
+
