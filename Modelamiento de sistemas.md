@@ -130,3 +130,23 @@ kirchoff en la segunda maya:
 $$i_{1}=i_{2}+i_{c}$$
 
 $$V_{c}=L_{2}\frac{\mathrm{d} i_{2}}{\mathrm{d} t}+R_{2}i_{2}$$
+
+3.
+
+![](ejercicio1.png)
+
+$$M_{1}\frac{\mathrm{d} v_{1}}{\mathrm{d} t}=F-f_{2}$$
+
+$$M_{2}\frac{\mathrm{d} v_{2}}{\mathrm{d} t}=f_{2}-kx_{2}$$
+
+$$v_{2}=\frac{\mathrm{d} x_{2}}{\mathrm{d} t}$$
+
+$$f_{2}=b(v_{2}-v_{1})$$
+
+Se aplica Laplace:
+
+$$M_{1}sV_{1}(s)=F(s)-b(V_{2}(s)-V_{1}(s))$$
+
+$$M_{2}sV_{2}(s)=b(V_{2}(s)-V_{1}(s))-\frac{k}{s}V_{2}(s)$$
+
+4.
