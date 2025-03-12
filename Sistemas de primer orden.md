@@ -59,3 +59,86 @@ Esta entrada  considera una variacion no lineal en el tiempo lo cual permitira e
 
 $$L(r[t])=\frac{A}{s^{3}}$$
 
+
+## Ejercicio
+
+Dada la siguiente ecuación diferencial de primer orden:
+
+$$2 \frac{dy(t)}{dt} + 4y(t) = 3u(t)$$
+
+Encuentra la función de transferencia $$\(\frac{Y(s)}{U(s)}\)$$.
+
+## Solución
+
+Aplicamos la transformada de Laplace a ambos lados de la ecuación diferencial:
+
+
+$$\mathcal{L}\{2 \frac{dy(t)}{dt} + 4y(t)\} = \mathcal{L}\{3u(t)\}$$
+
+Usamos la linealidad de la transformada de Laplace:
+
+$$2\mathcal{L}{\frac{dy(t)}{dt}\} + 4\mathcal{L}\{y(t)\} = 3\mathcal{L}\{u(t)\}$$
+
+Aplicamos la transformada de Laplace a cada término:
+
+$$2(sY(s) - y(0)) + 4Y(s) = 3U(s)$$
+
+ Asumimos condiciones iniciales nulas $$(\(y(0) = 0\))$$:
+
+$$2sY(s) + 4Y(s) = 3U(s)$$
+
+Despejamos la función de transferencia $$\(\frac{Y(s)}{U(s)}\)$$:
+
+$$\frac{Y(s)}{U(s)} = \frac{3}{2s + 4}$$
+
+Simplificamos la expresión:
+
+$$\frac{Y(s)}{U(s)} = \frac{3}{2(s + 2)}$$
+
+Por lo tanto, la función de transferencia es:
+
+$$\boxed{\frac{Y(s)}{U(s)} = \frac{3}{2(s + 2)}}$$
+
+## Ejercicio 2
+Un sistema de primer orden tiene una respuesta al impulso dada por:
+
+$$y(t) = 4e^{-t/3}$$
+
+- Encuentra la función de transferencia del sistema.
+
+- Determina la constante de tiempo τ y la ganancia estática K.
+
+### Solución
+Función de transferencia:
+
+La respuesta al impulso $$\( y(t) \)$$ de un sistema de primer orden tiene la forma:
+
+$$y(t) = K \cdot \frac{1}{\tau} e^{-t/\tau}$$
+
+Comparando con la respuesta dada:
+
+$$4e^{-t/3} = K \cdot \frac{1}{\tau} e^{-t/\tau}$$
+
+Identificamos:
+
+$$K \cdot \frac{1}{\tau} = 4 \quad \text{y} \quad \tau = 3$$
+
+Por lo tanto, la ganancia estática $$\( K \)$$ es:
+
+$$K = 4 \cdot \tau = 4 \cdot 3 = 12$$
+
+La función de transferencia $$\( G(s) \)$$ de un sistema de primer orden es:
+
+$$G(s) = \frac{K}{\tau s + 1}$$
+
+Sustituyendo los valores de $$\( K \) y \( \tau \)$$:
+
+$$G(s) = \frac{12}{3s + 1}$$
+
+Constante de tiempo $$\( \tau \)$$ y ganancia estática $$\( K \)$$:
+
+$$\tau = 3 \quad \text{y} \quad K = 12$$
+
+
+
+
