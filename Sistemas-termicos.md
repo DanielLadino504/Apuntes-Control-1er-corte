@@ -1,6 +1,7 @@
 # Sistemas Termicos y combinaciones
 ## Sistenas termicos
-
+### Introduccion 
+Los sistemas térmicos son aquellos que implican la transferencia de calor entre componentes, como líquidos fríos y calientes. Su modelado es crucial para predecir su comportamiento dinámico, y se representa mediante ecuaciones diferenciales que describen cómo cambia la temperatura en función del tiempo y las propiedades térmicas de los materiales.
 
 ![](9.jpg)
 
